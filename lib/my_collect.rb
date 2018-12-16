@@ -6,5 +6,6 @@ while i < array.length
   yield(array[i].upcase)
   i = i + 1
 end
+end
 new_array = array
 end
